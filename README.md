@@ -1,4 +1,4 @@
-# missing value processing of Data Analysis
+# Missing value processing of Data Analysis
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
