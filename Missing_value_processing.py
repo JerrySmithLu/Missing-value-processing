@@ -15,6 +15,7 @@ print(nan_all)  # print all nan value
 # Check which columns are missing
 nan_col1 = df.isnull().any()  # Get first column containing NA
 nan_col2 = df.isnull().all()  # Get all columns containing NA
+
 print(nan_col1)  # print first column containing NA
 print(nan_col2)  # print all columns containing NA
 
